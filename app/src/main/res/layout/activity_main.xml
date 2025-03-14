@@ -37,6 +37,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
+            android:background="@drawable/rectangle_button"
             android:text="CE"
             app:layout_constraintEnd_toStartOf="@+id/button_C"
             app:layout_constraintHorizontal_bias="0.5"
@@ -49,7 +50,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="C"
             app:layout_constraintEnd_toStartOf="@+id/buttonNgoacDong"
             app:layout_constraintHorizontal_bias="0.5"
@@ -61,7 +62,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text=")"
             app:layout_constraintEnd_toStartOf="@+id/buttonChia"
             app:layout_constraintHorizontal_bias="0.5"
@@ -73,7 +74,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="/"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -85,7 +86,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="7"
             app:layout_constraintEnd_toStartOf="@+id/button8"
             app:layout_constraintHorizontal_bias="0.5"
@@ -98,7 +99,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="8"
             app:layout_constraintEnd_toStartOf="@+id/button9"
             app:layout_constraintHorizontal_bias="0.5"
@@ -110,7 +111,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="9"
             app:layout_constraintEnd_toStartOf="@+id/buttonNhan"
             app:layout_constraintHorizontal_bias="0.5"
@@ -122,7 +123,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:layout_marginStart="3dp"
             android:text="X"
             app:layout_constraintEnd_toEndOf="parent"
@@ -135,7 +136,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="4"
             app:layout_constraintEnd_toStartOf="@+id/button5"
             app:layout_constraintHorizontal_bias="0.5"
@@ -148,7 +149,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="5"
             app:layout_constraintEnd_toStartOf="@+id/button6"
             app:layout_constraintHorizontal_bias="0.5"
@@ -160,7 +161,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="6"
             app:layout_constraintEnd_toStartOf="@+id/buttonTru"
             app:layout_constraintHorizontal_bias="0.5"
@@ -172,7 +173,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="-"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -184,7 +185,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="1"
             app:layout_constraintEnd_toStartOf="@+id/button2"
             app:layout_constraintHorizontal_bias="0.5"
@@ -197,6 +198,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
+            android:background="@drawable/rectangle_button"
             android:text="2"
             android:textColorLink="#E0D9D9"
             app:layout_constraintEnd_toStartOf="@+id/button3"
@@ -209,6 +211,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
+            android:background="@drawable/rectangle_button"
             android:text="3"
             app:layout_constraintEnd_toStartOf="@+id/buttonCong"
             app:layout_constraintHorizontal_bias="0.5"
@@ -220,7 +223,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="+"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -232,7 +235,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="("
             app:layout_constraintEnd_toStartOf="@+id/button0"
             app:layout_constraintHorizontal_bias="0.5"
@@ -245,7 +248,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="0"
             app:layout_constraintEnd_toStartOf="@+id/buttonDot"
             app:layout_constraintHorizontal_bias="0.5"
@@ -257,7 +260,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="."
             app:layout_constraintEnd_toStartOf="@+id/buttonBang"
             app:layout_constraintHorizontal_bias="0.5"
@@ -269,7 +272,7 @@
             android:layout_width="wrap_content"
             android:layout_height="115dp"
             android:layout_marginTop="8dp"
-
+            android:background="@drawable/rectangle_button"
             android:text="="
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
